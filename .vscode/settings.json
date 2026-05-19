@@ -1,0 +1,5 @@
+{
+  "playwright.testDir": "tests",
+  "testing.automaticallyOpenPeekView": "never",
+  "testing.defaultGutterClickAction": "run"
+}
